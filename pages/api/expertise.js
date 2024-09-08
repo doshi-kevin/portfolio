@@ -16,7 +16,7 @@ const expertise = [
     },
     {
         id: 3,
-        title: 'Github',
+        title: 'Blogging',
         desc: "I write a Machine Learning blog series designed for all skill levels, from beginners to those with some background in ML. The series covers a wide range of topics, starting with foundational concepts and progressing to advanced techniques and real-world applications. My blog provides clear explanations, code snippets, and practical case studies, focusing on hands-on learning using Python libraries like NumPy, Pandas, Scikit-learn, TensorFlow, and PyTorch. The goal is to help readers understand both the theory and practical implementation of Machine Learning algorithms while building their skills to solve real-world problems.",
     },
     {
