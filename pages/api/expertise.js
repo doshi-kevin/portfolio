@@ -2,32 +2,32 @@ const expertise = [
     {
         id: 0,
         title: 'Full Stack Development',
-        desc: 'I am an accomplished full-stack developer with extensive experience in building robust web applications using technologies like MongoDB, SQL, Express.js, React.js, and Django. I have a deep expertise in server-side rendering, seamless API integration, and efficient database management, enabling me to deliver high-performance, scalable web solutions tailored to meet diverse requirements.',
+        desc: 'Expert full-stack developer with proven track record in MongoDB, SQL, Express.js, React.js, and Django. Specialized in creating high-performance web applications with seamless API integration and optimized database architecture. Consistently deliver scalable solutions that exceed client requirements.',
     },
     {
         id: 1,
-        title: 'Research Skills',
-        desc: "I have a strong foundation in research, particularly in power systems and data management. During my internship at IIT Bombay, I led the design and development of a comprehensive platform for mapping and sharing power system data. This involved in-depth analysis of power system components and diagnosing system inefficiencies. I also authored detailed project documentation to ensure the platform’s adaptability for future enhancements.",
+        title: 'Machine Learning & Deep Learning',
+        desc: 'Passionate ML/DL practitioner with extensive experience implementing neural networks, computer vision, and NLP solutions. Proficient in TensorFlow, PyTorch, and scikit-learn for developing predictive models and data-driven solutions. Strong focus on solving complex business problems through innovative AI approaches.',
     },
     {
         id: 2,
-        title: 'Teaching Assistanceship',
-        desc: 'As a Teaching Assistant at Sardar Patel Institute of Technology, I provided hands-on guidance to students in distributed computing under the supervision of Dr. Sudhir Dhage. I facilitated lab sessions, clarified complex concepts, and assisted students with their projects, ensuring they gained a deeper understanding of the subject matter. In addition to delivering constructive feedback on lab experiments, I was responsible for evaluating and grading student submissions. My role also involved closely monitoring academic progress and reporting key insights to the professor, contributing to the continuous improvement of student performance and course outcomes.',
+        title: 'Research Experience',
+        desc: 'Led critical research initiatives at IIT Bombay, designing comprehensive platforms for power system data management. Applied advanced analytical methods to diagnose inefficiencies and developed scalable solutions. Created detailed technical documentation enabling seamless knowledge transfer.',
     },
     {
         id: 3,
-        title: 'Blogging',
-        desc: "I write a Machine Learning blog series designed for all skill levels, from beginners to those with some background in ML. The series covers a wide range of topics, starting with foundational concepts and progressing to advanced techniques and real-world applications. My blog provides clear explanations, code snippets, and practical case studies, focusing on hands-on learning using Python libraries like NumPy, Pandas, Scikit-learn, TensorFlow, and PyTorch. The goal is to help readers understand both the theory and practical implementation of Machine Learning algorithms while building their skills to solve real-world problems.",
+        title: 'Academic Leadership',
+        desc: 'Teaching Assistant for Distributed Computing at SPIT under Dr. Sudhir Dhage. Facilitated complex concept mastery, provided hands-on technical guidance, and evaluated student work. Implemented data-driven approaches to track and improve learning outcomes.',
     },
     {
         id: 4,
-        title: 'Open Source Contributor',
-        desc: "As an open-source contributor, I actively engage with prominent projects such as Pandas, SciPy, and Open-Deep-ML. These contributions have provided me with valuable learning experiences and the opportunity to collaborate with developers from around the world, helping to solve complex problems within the community.",
+        title: 'Technical Content Creation',
+        desc: 'Author of a popular Machine Learning blog series with comprehensive coverage from fundamentals to advanced implementations. Develop practical tutorials featuring NumPy, Pandas, scikit-learn, TensorFlow, and PyTorch that bridge theoretical concepts with real-world applications.',
     },
     {
         id: 5,
-        title: 'Hackathon and Competitive Programming',
-        desc: "Having secured first place in the Aeravat AI Hackathon for AI in Security, I possess a strong background in competitive programming and hackathon challenges. My innovative approaches to deepfake detection and AI-based security solutions have been recognized for their precision and impact. In addition, I have consistently ranked among the top 5 in several other prestigious hackathons, both within and outside Mumbai, including national-level competitions such as the All India Hackathon. I continue to pursue cutting-edge research in AI and machine learning.",
+        title: 'Open Source & Competitive Excellence',
+        desc: 'Active contributor to major open-source projects including Pandas, SciPy, and Open-Deep-ML. Champion of the Aeravat AI Hackathon (AI in Security) with innovative deepfake detection solutions. Consistently ranked in top 5 at national-level competitions, including the All India Hackathon.',
     },
 ]
 

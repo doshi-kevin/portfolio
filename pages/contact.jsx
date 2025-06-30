@@ -107,7 +107,7 @@ const Contact = () => {
             >
                 <div className='flex flex-col items-center justify-center'>
                     <h1 className='text-Green font-bold text-2xl'>In Progress</h1>
-                    <a className='underline text-Snow' target='_blank' href='https://github.com/osamajavaid/portfolio' rel="noreferrer">Be the one to integrate this!</a>
+                    <a className='underline text-Snow' target='_blank' href='https://github.com/osamajavaid/portfolio' rel="noreferrer">Oops! The feature is in maintainence yet. Please feel free to email me.</a>
                 </div>
             </Modal>
             <Footer />
