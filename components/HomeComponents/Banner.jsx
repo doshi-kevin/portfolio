@@ -70,14 +70,14 @@ const Banner = () => {
             <span className="text-base md:text-lg text-Green font-bold">
               10+
             </span>
-            <span className="text-xs text-Snow">Completed Projects</span>
+            <span className="text-xs text-Snow"> Projects</span>
           </div>
 
           <div className="flex items-center gap-x-1">
             <span className="text-base md:text-lg text-Green font-bold">
-              2+
+              8+
             </span>
-            <span className="text-xs text-Snow">Recommendations</span>
+            <span className="text-xs text-Snow">Blogs</span>
           </div>
 
           <div className="flex items-center gap-x-1">

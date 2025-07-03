@@ -1,6 +1,33 @@
 const portfolio = [
     {
         id: 0,
+        projectName: "WaveSplit - Audio Denoiser and Enhancer",
+        url: "https://github.com/doshi-kevin/WaveSplit",
+        image: "projects/wavesplit.png",
+        projectDetail: "WaveSplit is an advanced audio denoising system built on top of the CleanUNet neural network. It enhances speech clarity and overall audio quality through a multi-stage pipeline. Beyond standard neural denoising, WaveSplit includes adaptive signal-to-noise ratio (SNR)-based processing, perceptual and harmonic enhancement, vocal clarity filters, and optional dynamic range compression. These components work together to reduce noise, preserve natural voice features, and make speech more intelligible, even in very noisy environments. It also includes a comprehensive evaluation suite to measure audio quality improvements.",
+        technologiesUsed: [
+            {
+                tech: "PyTorch"
+            },
+            {
+                tech: "Gradio"
+            },
+            {
+                tech: "CUDA"
+            },
+            {
+                tech: "Librosa"
+            },
+            {
+                tech: "Numpy"
+            },
+            {
+                tech: "MatPlotLib"
+            },
+        ]
+    },
+    {
+        id: 0,
         projectName: "DeepShield",
         url: "https://github.com/doshi-kevin/AlphaQ_Aeravat",
         image: "projects/deepshield.png",

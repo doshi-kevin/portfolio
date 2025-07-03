@@ -8,7 +8,8 @@ const recommendationCard = [
     linkednURL: "https://www.linkedin.com/in/anil-kulkarni-0a50378",
     recommendationPDF: "/recommendation_letters/kulkarni_recommendation.pdf",
     pdfIcon: "📄", // PDF icon for download button
-    downloadText: "Download Full Letter"
+    downloadText: "Download Full Letter",
+    image: "recommendation_letters/anil.jpg"
   },
   {
     id: 1,
@@ -18,7 +19,8 @@ const recommendationCard = [
     linkednURL: "https://www.linkedin.com/in/dr-sudhir-dhage-955a3533/",
     recommendationPDF: "/recommendation_letters/dhage_recommendation.pdf",
     pdfIcon: "📄", // PDF icon for download button
-    downloadText: "Download Full Letter"
+    downloadText: "Download Full Letter",
+    image: "recommendation_letters/sudhir.png"
   },
   {
     id: 2,
@@ -28,7 +30,8 @@ const recommendationCard = [
     linkednURL: "",
     recommendationPDF: "/recommendation_letters/godbole_recommendation.pdf",
     pdfIcon: "📄", // PDF icon for download button
-    downloadText: "Download Full Letter"
+    downloadText: "Download Full Letter",
+    image: "recommendation_letters/anand.jpg"
   },
 ]
 
