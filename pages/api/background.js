@@ -48,6 +48,16 @@ const background = [
   {
     expCards: [
       {
+        id: 2,
+        title: "Student Mentor - Sardar Patel Institute of Technology",
+        role: "",
+        url: "",
+        desc: "As a student mentor, I supported juniors with academic guidance, project development, placement preparation, and career decisions. I conducted one-on-one mentoring sessions and group workshops to address common challenges and goals. Additionally, I offered insights on resume building, interview skills, and higher studies. My mentorship helped foster a collaborative and growth-oriented environment among students. Many juniors successfully secured internships and clarified their career paths through consistent guidance.",
+        year: "01/08/2024 - 30/05/2025",
+        location: "Mumbai, India",
+        image: "/images/spit.jpg",
+      },
+      {
         id: 1,
         title: "Research Intern - Indian Institute of Technology, Bombay",
         role: "",
