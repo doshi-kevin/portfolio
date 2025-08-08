@@ -24,7 +24,7 @@ const background = [
           { semester: "Sem 5", cgpa: 8.8, date: "Dec 2023" },
           { semester: "Sem 6", cgpa: 9.83, date: "May 2024" },
           { semester: "Sem 7", cgpa: 9.63, date: "Dec 2024" },
-          { semester: "Sem 8", cgpa: 10.0, date: "June 2025" },
+          { semester: "Sem 8", cgpa: 9.60, date: "June 2025" },
         ],
       },
       {
@@ -48,7 +48,7 @@ const background = [
   {
     expCards: [
       {
-        id: 2,
+        id: 0,
         title: "Student Mentor - Sardar Patel Institute of Technology",
         role: "",
         url: "",
